@@ -1,0 +1,2 @@
+1. para trabajar con bootstrap ir al sitio web: getbootstrap.com
+2. dar click en get started y copiar el link en el head
