@@ -12,4 +12,4 @@ Card project made with bootstrap, css, sass, html. With responsive design to ada
 
 ## 🔗 Link to the website
 
-- [Bootstrap cards](proyectobootstrapomarforero.netlify.app)
+- [Bootstrap cards](https://proyectobootstrapomarforero.netlify.app/)
