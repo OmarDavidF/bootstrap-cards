@@ -6,5 +6,5 @@ Card project made with bootstrap, css, sass, html. With responsive design to ada
 
 ## 📸 Screenshots
 
-  ![imagen_uno](https://raw.githubusercontent.com/OmarDavidF/bootstrap-cards/blob/main/assets/images/Screenshot_20220227_164805.png)
+  ![imagen_uno](https://github.com/OmarDavidF/bootstrap-cards/blob/main/assets/images/Screenshot_20220227_164805.png)
   
